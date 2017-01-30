@@ -18,10 +18,10 @@ public class Stopwatch {
 
 	public double getElapsed() {
 		if(run==true){
-			return System.nanoTime()-startTime;
+			return (System.nanoTime()-startTime)*NANOSECONDS;
 		}
 		else
-			return stopTime-startTime;
+			return (stopTime-startTime)*NANOSECONDS;
 	}
 
 	public boolean isRunning() {

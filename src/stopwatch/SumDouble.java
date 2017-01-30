@@ -8,7 +8,7 @@ package stopwatch;
 
 public class SumDouble implements Runnable {
 	private int counter;
-	private Double sum;
+	private Double sum=new Double(0.0);
 	static final int ARRAY_SIZE = 500000;
 	
 	/**
