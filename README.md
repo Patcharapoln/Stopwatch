@@ -3,8 +3,9 @@ Task      |     Time
 Append 50,000 chars to String  | 0.985794 sec
 Stopwatch tasks by Patcharapol Nirunpornputta
 I ran the tasks on Hp and got these results:
+
 Task      |  Time
-----------|------------------
+----------|----------
 Append 50,000 chars to String | 0.985794 sec
 Append 100,000 chars to String | 3.891619 sec
 Append 100,000 chars to StringBuilder | 0.002092 sec
