@@ -1,6 +1,3 @@
-Task      |     Time
-----------|-------------
-Append 50,000 chars to String  | 0.985794 sec
 Stopwatch tasks by Patcharapol Nirunpornputta
 I ran the tasks on Hp and got these results:
 
